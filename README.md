@@ -100,8 +100,8 @@ QApplication/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/QApplication.git
-cd QApplication
+git clone https://github.com/Pratik5767/Information-Retrieval-QA-System.git
+cd Information-Retrieval-QA-System
 ```
 
 ### 2. Create and Activate a Virtual Environment
